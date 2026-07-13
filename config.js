@@ -68,7 +68,7 @@ window.AQEEL_CONFIG = {
     { type: "image", src: "assets/photo-059.jpg", alt: "Aqeel Cabin and Jungle River Dome" },
     { type: "image", src: "assets/photo-060.jpg", alt: "Aqeel Cabin and Jungle River Dome" },
     { type: "image", src: "assets/photo-061.jpg", alt: "Aqeel Cabin and Jungle River Dome" },
-    { type: "video", src: "assets/video-01.mov", poster: "assets/video-01-poster.jpg", alt: "Aqeel Cabin and Jungle River Dome video" },
+    { type: "video", src: "assets/video-01.mp4", poster: "assets/video-01-poster.jpg", alt: "Aqeel Cabin and Jungle River Dome video" },
     { type: "video", src: "assets/video-02.mp4", poster: "assets/video-02-poster.jpg", alt: "Aqeel Cabin and Jungle River Dome video" },
     { type: "video", src: "assets/video-03.mp4", poster: "assets/video-03-poster.jpg", alt: "Aqeel Cabin and Jungle River Dome video" },
     { type: "video", src: "assets/video-04.mp4", poster: "assets/video-04-poster.jpg", alt: "Aqeel Cabin and Jungle River Dome video" },
